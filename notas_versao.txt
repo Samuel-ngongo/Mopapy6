@@ -1,0 +1,6 @@
+Notas da versão:
+- Sistema adaptativo ativado.
+- Detecta mudanças súbitas de lógica.
+- Estima intervalos inferiores e médios.
+- Fornece alertas de risco e estabilidade.
+- Layout mantido conforme versão anterior.
